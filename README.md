@@ -1,4 +1,4 @@
-# Project_1_Shop
+# Project_3_Ecommerce
 Simple first console project.\
 A simple E-COMMMERCE console project\
 When you create a account you can buy a product,\
