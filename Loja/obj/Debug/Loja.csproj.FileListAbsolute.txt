@@ -1,0 +1,8 @@
+C:\Users\henry\source\repos\Loja\Loja\bin\Debug\Loja.exe.config
+C:\Users\henry\source\repos\Loja\Loja\bin\Debug\Loja.exe
+C:\Users\henry\source\repos\Loja\Loja\bin\Debug\Loja.pdb
+C:\Users\henry\source\repos\Loja\Loja\obj\Debug\Loja.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Loja\Loja\obj\Debug\Loja.csproj.SuggestedBindingRedirects.cache
+C:\Users\henry\source\repos\Loja\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Loja\Loja\obj\Debug\Loja.exe
+C:\Users\henry\source\repos\Loja\Loja\obj\Debug\Loja.pdb
