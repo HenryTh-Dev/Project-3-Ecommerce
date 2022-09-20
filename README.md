@@ -1,5 +1,5 @@
 # Project_1_Shop
-My first console project.\
+Simple first console project.\
 A simple E-COMMMERCE console project\
 When you create a account you can buy a product,\
 change your password, see your cart to finish your purchase,\
